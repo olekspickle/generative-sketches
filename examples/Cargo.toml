@@ -22,3 +22,8 @@ path = "src/lines.rs"
 [[example]]
 name = "flickering"
 path = "src/flickering.rs"
+
+[[example]]
+name = "joy_division"
+path = "src/joy_division.rs"
+

@@ -1,0 +1,13 @@
+[package]
+name = "generative_sketches"
+version = "0.1.0"
+authors = ["olekspickle <22867443+olekspickle@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.14.1"
+
+
+[[example]]
+name = "lines"
+path = "src/lines.rs"
